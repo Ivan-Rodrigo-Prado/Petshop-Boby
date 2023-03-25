@@ -1,0 +1,10 @@
+===================Equipo 4 PetShop============
+Nuestro cliente necesita  un sistema el cual podra registrar: CLientes ,  Productos y ventas
+Donde para los : 
+ Cliente se debe ingresar  el nombre cliente ( longitud 50) , número de telefono ( 10 dígitos)
+nombre mascota ( 20 caracteres ), especie de mascota ( 30 ), número de tarjeta de crédito ( 16 dígitos)
+
+Para los productos el sistema debe ser capaz de registrar el nombre del producto ( longitud 50), precio (4 enteros y 2 decimales) y el stock ( 4 enteros)
+En el caso de las ventas se registraremos  el nombre del cliente, el nombre de la mascota, el producto , recio y el tipo de pago ( opciones: Efectivo, TDD, TDC, Cheques, 
+paypal, maercado pago)
+
